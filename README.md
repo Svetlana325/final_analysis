@@ -15,4 +15,4 @@
 
 **Визуализация в DataLens:** [https://datalens.yandex/tuxs5cz1pe98c?_share_link=public](https://datalens.yandex/tuxs5cz1pe98c?_share_link=public)
 
-**Итоговый отчёт:** [https://docs.google.com/document/d/1-HA3Z1AYUwfeSB3dtCyUx0cFZV9jXc2T/edit?usp=sharing&ouid=104968886814341842005&rtpof=true&sd=true](https://docs.google.com/document/d/1-HA3Z1AYUwfeSB3dtCyUx0cFZV9jXc2T/edit?usp=sharing&ouid=104968886814341842005&rtpof=true&sd=true)
+**Итоговый отчёт:** [https://docs.google.com/document/d/1ZB0PsXGLoDgDimw5Bnm82fYDpR4y_jE5/edit?usp=sharing&ouid=104968886814341842005&rtpof=true&sd=true](https://docs.google.com/document/d/1ZB0PsXGLoDgDimw5Bnm82fYDpR4y_jE5/edit?usp=sharing&ouid=104968886814341842005&rtpof=true&sd=true)
