@@ -17,6 +17,7 @@
 
 **Итоговый отчёт:** [https://docs.google.com/document/d/1ZB0PsXGLoDgDimw5Bnm82fYDpR4y_jE5/edit?usp=sharing&ouid=104968886814341842005&rtpof=true&sd=true](https://docs.google.com/document/d/1ZB0PsXGLoDgDimw5Bnm82fYDpR4y_jE5/edit?usp=sharing&ouid=104968886814341842005&rtpof=true&sd=true)
 
+-----
 
 В работе использовался датасет `customer_shopping_data.csv`, содержащий `99,457` транзакций с 9 полями: идентификаторы чеков и клиентов, пол, возраст, категория товара, выручка, способ оплаты, дата и название торгового центра.
 
